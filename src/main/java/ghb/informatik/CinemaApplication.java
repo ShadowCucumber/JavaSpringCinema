@@ -15,11 +15,12 @@ public class CinemaApplication {
 /*
 
 	AUFGABE 1
+	Das OOP Paradigma ist die objektorientierte Programmierung, dafür nutzen wir Klassen. In den Klassen werden den Objekten mit Hilfe von Datentypen Eigenschaften zugewiesen.Beispiele für Datentypen sind String, Integer und boolean.Wir können dann soviel Objekte erstellen bis das Limit der Java VM erreicht ist. In der Objektorientierten Programmierung versuchen wir die reale Welt wiederzu spiegeln.
+		
 
 
 
-
-
+ 
 
 
  */

@@ -10,6 +10,7 @@ public class CinemaEvent {
 
     /*   
         AUFGABE 2
+        In der For-Schleife 
 
 
     */
