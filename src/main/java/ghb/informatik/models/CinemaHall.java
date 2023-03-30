@@ -30,3 +30,4 @@ public class CinemaHall {
         return rows;
     }
 }
+//test
