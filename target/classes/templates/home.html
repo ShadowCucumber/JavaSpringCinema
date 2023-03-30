@@ -5,6 +5,7 @@
             <h5 class="card-title" th:text="${ce.getMovie.getTitle}"></h5>
             <p class="card-text" th:text="${ce.movie.desc}">Keine Beschreibung gefunden...</p>
             <p class="card-text" th:text="${ce.time}">Zeit kommt noch</p>
+            <p class="card-text" th:text="${ce.movie.externalLink}">Wikipedia</p>
             <p class="card-text">Kino <span th:text="${ce.cinemahall.getNumber}">??</span> (FSK <span th:text="${ce.movie.getFsk}">??</span>), <span th:text="${ce.movie.length}">??</span> Min.</p>
             <a th:href="@{/setseat(cinemaevent=${ce.getId})}" class="btn btn-primary">Plätze buchen!</a>
         </div>

@@ -10,7 +10,7 @@ public class CinemaEvent {
 
     /*   
         AUFGABE 2
-        In der For-Schleife 
+        In der For-Schleife wird geprüft ob noch Sitze frei sind, die Schleife bricht ab sobal i kleiner ist als die Sitzte weil dann keine mehr frei sind die gebucht werden können.
 
 
     */
